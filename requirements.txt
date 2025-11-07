@@ -1,0 +1,8 @@
+pandas
+pytesseract
+opencv-python
+pdf2image
+fastapi[standard]
+streamlit
+python-dotenv
+google-genai

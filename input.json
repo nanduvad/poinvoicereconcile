@@ -1,0 +1,11 @@
+[
+{
+
+ "key": "question",
+ "label": "Label",
+ "description": "Description",
+ "type": "string",
+ "required": true,
+ "inputTypes": ["json"]
+ }
+ ]

@@ -1,0 +1,10 @@
+[
+   {
+
+ "key": "response",
+ "label": "message",
+ "description": "Description",
+ "types": ["json", "message", "string", "object"]
+
+   }
+ ]
